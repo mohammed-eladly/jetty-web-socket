@@ -1,4 +1,4 @@
-package com.afaqy.jetty.websocket;
+package edu.jetty.websocket;
 
 /**
  * Name : MyWebSocketHandler
